@@ -21,7 +21,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript.
 ## 📫 Contact
 Email: keerthanasenthil437@gmail.com  
 GitHub: https://github.com/keerthanasenthil437-afk
-Linkedin: linkedin.com/in/keerthanasenthilkumar6
+Linkedin: https://linkedin.com/in/keerthanasenthilkumar6
 
-## Author
+## 👩‍💻 Author
 Keerthana SenthilKumar
